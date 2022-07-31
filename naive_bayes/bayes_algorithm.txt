@@ -1,0 +1,3 @@
+1. Chuyển đổi tập dữ liệu đã cho thành các bảng tần suất.
+2. Tạo bảng Khả năng xảy ra bằng cách tìm xác suất của các đối tượng địa lý nhất định.
+3. Sử dụng định lý Bayes để tính xác suất.
