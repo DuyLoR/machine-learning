@@ -1,3 +1,4 @@
+#áp dụng thuật toán perceptron
 #input: bảng chân lý, giá trị w0,w1,w2
 #output: giá trị y, giá trị W
 from numpy import array

@@ -1,6 +1,6 @@
 #Thuật toán cây quyết định ID3
 #input: bài toán weather
-#output: cây quyết định
+#output: cây quyết định theo thứ tự trước
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -8,7 +8,7 @@ import pandas as pd
 import math
 import copy
 
-dataset = pd.read_csv('tennis.csv')
+dataset = pd.read_csv('weather.csv')
 X = dataset.iloc[:, 1:].values
 attribute = ['outlook', 'temp', 'humidity', 'wind']
 
